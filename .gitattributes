@@ -1,0 +1,2 @@
+*.ipynb filter=nbstripout 
+*_prectice.ipynb !filter 
