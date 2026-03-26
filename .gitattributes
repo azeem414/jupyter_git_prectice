@@ -1,2 +1,4 @@
 *.ipynb filter=nbstripout 
-*_prectice.ipynb -filter -diff 
+*_prectice.ipynb -filter
+
+*.ipynb diff=ipynb
